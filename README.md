@@ -3,7 +3,7 @@
 </p>
 
 ### About
-To descripe me shortly, as the mentioned above "I do stuff". I do a bunch of different things that peak my interest, mainly on the design aspect, but being able to go from design to product was probably what sparked the fire in me to learn how to code and bring my ideas to life.<br />
+To descripe me shortly, as mentioned above "I do stuff". I do a bunch of different things that peak my interest, mainly on the design aspect, but being able to go from design to product was probably what sparked the fire in me to learn how to code and bring my ideas to life.<br />
 
 I mainly work in ReactJS ( JS or TS ), but plan on actually getting my hands dirty with VueJS at some point.<br />
 

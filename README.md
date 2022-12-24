@@ -3,7 +3,7 @@ To descripe me shortly, as mentioned above "I do stuff". I do a bunch of differe
 
 
 ### Accomplishments
-<b>ROSC (VRChat OSC Program)</b>
+<b>ROSC (VRChat OSC Program)</b><br/>
 Mainly a module launchers for different OSC programs with easy UI making in the form of MDX files and custom components.
 Utilizing WebSockets to communicate between UI and modules.
 

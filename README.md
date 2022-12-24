@@ -1,17 +1,12 @@
-<p align="center">
-  <img src="https://r4ver.com/content/images/2021/03/hi_im_raver.png" />
-</p>
-
 ### About
 To descripe me shortly, as mentioned above "I do stuff". I do a bunch of different things that peak my interest, mainly on the design aspect, but being able to go from design to product was probably what sparked the fire in me to learn how to code and bring my ideas to life.<br />
 
-I mainly work in ReactJS ( JS or TS ), but plan on actually getting my hands dirty with VueJS at some point.<br />
-
-<p align="center">
-  <img src="https://r4ver.com/content/images/2021/03/skills_white-1.png" />  
-</p>
 
 ### Accomplishments
+<b>ROSC (VRChat OSC Program)</b>
+Mainly a module launchers for different OSC programs with easy UI making in the form of MDX files and custom components.
+Utilizing WebSockets to communicate between UI and modules.
+
 <b>Twixera (Mixera)</b><br/>
 I think the project I'm most proud of is my [browser](https://github.com/R4ver/twixera) extension which first was made for Mixer.com (bless its soul) and now Twitch.
 
